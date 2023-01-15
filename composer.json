@@ -1,0 +1,17 @@
+{
+    "name": "neowaring/novaposhta",
+    "type": "library",
+    "license": "MTI",
+    "autoload": {
+        "psr-4": {
+            "Neowaring\\Novaposhta\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Neowaring"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
